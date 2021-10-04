@@ -1,0 +1,16 @@
+D:\SAMSUNG\Programas\MicrosoftVSCode\Cadastro\bin\Debug\net5.0\Cadastro.exe
+D:\SAMSUNG\Programas\MicrosoftVSCode\Cadastro\bin\Debug\net5.0\Cadastro.deps.json
+D:\SAMSUNG\Programas\MicrosoftVSCode\Cadastro\bin\Debug\net5.0\Cadastro.runtimeconfig.json
+D:\SAMSUNG\Programas\MicrosoftVSCode\Cadastro\bin\Debug\net5.0\Cadastro.runtimeconfig.dev.json
+D:\SAMSUNG\Programas\MicrosoftVSCode\Cadastro\bin\Debug\net5.0\Cadastro.dll
+D:\SAMSUNG\Programas\MicrosoftVSCode\Cadastro\bin\Debug\net5.0\ref\Cadastro.dll
+D:\SAMSUNG\Programas\MicrosoftVSCode\Cadastro\bin\Debug\net5.0\Cadastro.pdb
+D:\SAMSUNG\Programas\MicrosoftVSCode\Cadastro\obj\Debug\net5.0\Cadastro.csproj.AssemblyReference.cache
+D:\SAMSUNG\Programas\MicrosoftVSCode\Cadastro\obj\Debug\net5.0\Cadastro.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAMSUNG\Programas\MicrosoftVSCode\Cadastro\obj\Debug\net5.0\Cadastro.AssemblyInfoInputs.cache
+D:\SAMSUNG\Programas\MicrosoftVSCode\Cadastro\obj\Debug\net5.0\Cadastro.AssemblyInfo.cs
+D:\SAMSUNG\Programas\MicrosoftVSCode\Cadastro\obj\Debug\net5.0\Cadastro.csproj.CoreCompileInputs.cache
+D:\SAMSUNG\Programas\MicrosoftVSCode\Cadastro\obj\Debug\net5.0\Cadastro.dll
+D:\SAMSUNG\Programas\MicrosoftVSCode\Cadastro\obj\Debug\net5.0\ref\Cadastro.dll
+D:\SAMSUNG\Programas\MicrosoftVSCode\Cadastro\obj\Debug\net5.0\Cadastro.pdb
+D:\SAMSUNG\Programas\MicrosoftVSCode\Cadastro\obj\Debug\net5.0\Cadastro.genruntimeconfig.cache
